@@ -12,7 +12,7 @@ const LandingPage = () => {
 
 
 
-
+// hey this is sooo not cool, id rather do physicsss
     
   return (
     <div className="landing-page-container">
